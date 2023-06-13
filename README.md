@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NicolasT08
 <br>
 
+![Hu tao golpeando un fantasma](hu-tao-ghost.gif)
 
 
 <!---
