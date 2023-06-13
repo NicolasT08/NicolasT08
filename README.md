@@ -2,7 +2,7 @@
 <br>
 
 ![Hu tao golpeando un fantasma](hu-tao-ghost.gif)
-<img src="https://github.com/NickGow295/NickGow295/blob/main/hu-tao-ghost.gif" width="100" height="100" />
+<img src="bocchi-bocchi-the-rock.gif" width="112" height="112"/>
 
 <!---
 NicolasT08/NicolasT08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
