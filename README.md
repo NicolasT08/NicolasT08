@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicolasT08
-<br>
+- 🌱 I’m currently learning Java
 
 ![Hu tao golpeando un fantasma](hu-tao-ghost.gif)
 <img src="bocchi-bocchi-the-rock.gif" width="112" height="112"/>
